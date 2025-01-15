@@ -84,6 +84,8 @@ Screenshot | スクショ | | Informal abbreviation
 To take a screenshot | スクリーンショットを撮る | スクリーンショットをとる |
 Video | 動画 | どうが |
 To display | 表示（する） | ひょうじ |
+To show | 表示（する） | ひょうじ | Works for password context
+To hide | 非表示（する） | ひひょうじ | Works for password context
 To copy | コピー(する) |
 To cut | 切り取る | きりとる
 To paste | 貼り付け(する) | はりつけ
@@ -205,6 +207,10 @@ Bug | 不具合 | ふぐあい |
 Reproduce | 再現（する） | さいげん | 不具合を再現する | 
 To fix | 修正（する） | しゅうせい |
 Embedded system | 組込みシステム | くみこみシステム |
+Numeric character | 数字 | すうじ | 
+Symbol character | 記号 | きごう |
+Uppercase letter | 大文字 | おおもじ |
+Lowercase letter | 小文字 | こもじ |
 
 
 ### Security
