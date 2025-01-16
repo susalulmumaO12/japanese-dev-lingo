@@ -38,6 +38,8 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 * [RikaiKun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp): RikaiChan for Chrome.
 * [Safarikai](https://github.com/ashchan/safarikai): RikaiChan for Safari.
 
+> [!TIP]
+> Look up the target topic in Japanese, and find the most used terms by users by reading articles on the topic, this way you can make sure your vocabulary is up to date with the modern terminology used by Japanese users.
 
 ## Word list
 
@@ -76,6 +78,8 @@ To insert/include | 組み込み (する) | くみこみ |
 To insert | 挿入 (する) | そうにゅう| Eg. text, a CD
 To edit | 編集（する） | へんしゅう |
 To delete / remove | 削除（する） | さくじょ |
+To generate / create | 生成（する） | せいせい |
+To create | 作成（する） | さくせい |
 Processing | 処理 | しょり |
 Automatic | 自動 | じどう |
 Screen | 画面 | がめん |
@@ -92,6 +96,8 @@ To paste | 貼り付け(する) | はりつけ
 To copy and paste | コピペ（する） | |
 To support | 対応（する） | たいおう | As in "compatibility", not "customer support"
 To connect | 接続（する） | せつぞく |
+To exit / terminate | 終了（する） | しゅうりょう |
+To halt / stop | 停止（する） | ていし |
 
 
 ### Devices
