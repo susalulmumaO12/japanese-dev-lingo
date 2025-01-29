@@ -37,6 +37,7 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 * [RikaiChan](http://www.polarcloud.com/rikaichan/): A popup Japanese dictionary tool for Firefox.
 * [RikaiKun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp): RikaiChan for Chrome.
 * [Safarikai](https://github.com/ashchan/safarikai): RikaiChan for Safari.
+* [Yomitan](https://github.com/yomidevs/yomitan): A popup rich Japanese dictionary tool for Firefox, Chrome, and Edge.
 
 > [!TIP]
 > Look up the target topic in Japanese, and find the most used terms by users by reading articles on the topic, this way you can make sure your vocabulary is up to date with the modern terminology used by Japanese users.
