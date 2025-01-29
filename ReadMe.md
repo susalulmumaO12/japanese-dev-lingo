@@ -77,7 +77,8 @@ To add | 追加（する） | ついか |
 To insert/include | 組み込み (する) | くみこみ |
 To insert | 挿入 (する) | そうにゅう| Eg. text, a CD
 To edit | 編集（する） | へんしゅう |
-To delete / remove | 削除（する） | さくじょ |
+To delete / remove | 削除（する） | さくじょ | partial deletion |
+To eliminate / remove | 消去（する） | しょうきょ | as a whole |
 To generate / create | 生成（する） | せいせい |
 To create | 作成（する） | さくせい |
 Processing | 処理 | しょり |
@@ -141,11 +142,11 @@ Development | 開発 | かいはつ |
 Developer | 開発者 | かいはつしゃ |
 Development department | 開発部 | かいはつぶ |
 Research and development, R&D | 研究開発 | けんきゅうかいはつ
-Implementation | 実装 | じっそう |
+Implementation | 実装（する） | じっそう |
 Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
 Font | フォント | |
 Input Field | 入力欄 | にゅうりょくらん | Eg. in a web form |
-Execution | 実行 | じっこう | Of a function or program
+Execution | 実行（する） | じっこう | Of a function or program
 Dependency | 依存関係 | いぞんかんけい
 To resolve | 解決 (する)| かいけつ | Eg. a dependency
 Structure | 仕組み | しくみ | Eg. of code
@@ -177,14 +178,19 @@ Initial value | 初期値 | しょきち |
 Null | ヌル | |
 To concatenate | 連結（する）| れんけつ |
 Boolean | 真偽値 | しんぎち |
+Boolean | ブール |  |
 String | 文字列 | もじれつ |
 Integer | 整数 | せいすう |
+Tuple | タプル | |
+Array | 配列 | |
 Floating point number | 浮動小数点数 | ふどうしょうすうてんすう |
 Function | 関数 | かんすう |
 Function name | 関数名 | かんすうめい |
-Argument | 引数 | ひきすう | To a function or program
+Argument, parameter | 引数 | ひきすう | To a function or program
+To call, to invoke | 呼び出す | よびだす　| Eg. a function |
 Return value | 戻り値 | もどりち |
 To refer to | 参照 (する) | さんしょう |
+Circular reference |　循環参照 | じゅんかんさんしょう |
 Call by value | 値渡し | あたいわたし |
 Call by reference | 参照渡し | さんしょうわたし |
 Call by address | ポインタ渡し | ポインタわたし |
@@ -206,10 +212,11 @@ Revision number | リビジョン番号 | リビジオンばんごう | Git revi
 Object Oriented Programming | オブジェクト指向 | オブジェクトしこう |
 Functional Programming | 関数型プログラミング | かんすうがたプログラミング |
 Artificial Intelligence | 人工知能 | じんこうちのう |
+Machine Learning | 機械学習　| きかいがくしゅう |
 Conditional expression | 条件式 | じょうけんしき |
 Memory corruption | メモリ破壊　| メモリはかい　|
 Bug | バグ | |
-Bug | 不具合 | ふぐあい |
+Defect | 不具合 | ふぐあい |
 Reproduce | 再現（する） | さいげん | 不具合を再現する | 
 To fix | 修正（する） | しゅうせい |
 Embedded system | 組込みシステム | くみこみシステム |
